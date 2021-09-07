@@ -1,6 +1,6 @@
 # Faster2PDF
 <p align = "center">
-<img src = "https://github.com/jusspatel/Faster2PDF/blob/main/untitled.png">
+<img src = "https://github.com/jusspatel/Faster2PDF/blob/master/untitled.png">
 </p>
 Faster2PDF is a lightweight Tkinter Programme for converting images to PDF really fast !
 
