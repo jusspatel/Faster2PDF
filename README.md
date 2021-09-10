@@ -29,3 +29,18 @@ Faster2PDF is a lightweight Tkinter Programme for converting images to PDF reall
 
 ## Runs on:
 - Only Windows for now ;-; .Thinking of making it for other plattforms too in the future
+
+# Releases :
+
+## v1.0
+Initial version
+
+## v2.0
+- Minor UI Changes
+- Added Image Reordering by Just dragging the seleceted image wherever you want in the list
+- Added Image Preview by clicking on the File Path
+- Added Inbuilt PDF Compression : 
+  - If you set Image Quality to 95 (Highest Quality) , 42 MB worth of images get converted into a 45 MB PDF
+  - If you set Image Quality to 50 (Medium Quality)(Recommended) , 42 MB worth of images get converted into a 9 MB PDF
+  - If you set Image Quality to 25 (Medium Low Quality) , 42 MB worth of images get converted into a 5 MB PDF
+- Faster Conversion speeds
