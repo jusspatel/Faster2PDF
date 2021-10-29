@@ -13,6 +13,7 @@ For v2.0 and 1.0 :
 - A windows defender message might popup . If it does , click on **More Info** and then click **Run Anyway**
 - Wait for 2-10 Seconds
 - Voila ! The application should now be running .
+
 For v2.1 and above :
 - Follow the same steps , except download the file name Faster2PDF-zip in the releases section of respective version
 
