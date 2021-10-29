@@ -6,11 +6,16 @@ Faster2PDF is a lightweight Tkinter Programme for converting images to PDF reall
 
 
 ## Installation
+For v2.0 and 1.0 : 
+- Go to releases section of respective version
 - Download the repository as zip and extract its contents to the **same folder**.
 - Open the folder in which the contents are stored and double click on the `Faster2PDF.exe` file to run it .
 - A windows defender message might popup . If it does , click on **More Info** and then click **Run Anyway**
 - Wait for 2-10 Seconds
 - Voila ! The application should now be running .
+For v2.1 and above :
+- Follow the same steps , except download the file name Faster2PDF-zip in the releases section of respective version
+
 
 ## How to use it ?
 - Once the application opens , you will see a button called `Open Images Files` at the bottom left . Click on it to select the images you want to convert to PDF (Do this as many times as you want.)
